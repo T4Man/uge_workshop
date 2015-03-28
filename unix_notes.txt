@@ -1,0 +1,270 @@
+# a cool fish shortcut for list files
+ll
+
+# a simple way to list files in long format
+ls -l
+
+# a simple way; to list files
+ls
+
+# create and output to a file
+history > moving_around.txt
+
+# manual for less
+man less
+
+# output a file using the less command
+history | less
+
+# help for the history command
+history -h
+
+# configuring fish to run sublime text
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.
+
+# concatenate
+cat subl
+cd subl
+vim subl
+cd /usr/local/bin
+cd /
+subl
+subl .
+ls ls
+ls Downloads/
+cls
+cd ../../
+cd Group\ Containers/
+cd Library/
+cd l
+cd ././
+cd ..
+man cd
+cd FontCollections/
+cd Desktop/
+cd Applications/
+cd
+cd 855.gif
+cd Documents/
+cd Do
+cd Pictures/
+cd 'Library/Application Support/'
+cd ~
+man ls
+ls -p
+ls -@
+ls -R
+ls -1
+ls -c
+ls -C
+ls -tl
+ls -lr
+ls -rl
+ls -ltr
+ls -lt
+ls -l -t
+ls -l
+ls -t
+ls
+git config --global user.email "timothywforman@gmail.com"
+git config --global user.name "t4man"
+echo $PATH
+brew info fish
+brew in
+help
+brew update
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+ls -G
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install"
+brew doctor
+ls-G
+uname
+newname
+new name
+reset HEAD
+init clone
+cd /joyent
+git reset
+cd joyent
+cd node.git
+git status
+q
+git clone https://github.com/joyent/node.git
+git clone https://github.com/codefellows/git-for-everyone/tree/master/clone
+cd octocat
+git remote add origin https://github.com/octocat/repo.git
+git remote add origin https://github.com/timforman/repo.git
+git remote add origin https://github.com/user/repo.git
+ipconfig
+git commit --amend
+git statue
+git commit -m 'README'
+git commit
+git config --global t4man
+cd mylibgit
+git add README
+git reset HEAD README
+git add CONTRIBUTING
+git add CONTRIBUTING.md
+git checkout -- PROJECTS.md
+git rm --amend
+git commit
+git log
+git log -2
+rm PROJECTS.md
+git diff
+git status -s
+git add contributing.md
+vim contributing.md
+git rm contributing.md.swp
+rm '*.swp'
+rm
+rm contributing.md.swp
+git reset master
+git add contributing.md.swp
+git rm .contributing.md.swp
+git rm 'contributing.md.swp'
+git rm 'contributing.md'
+git --help
+git add 'contributing.md'
+git /?
+echo 'My Project' > README
+rm README
+echo 'My Project > README
+git clone https://github.com/libgit2/libgit2 mylibgit
+exit
+create file1.txt
+cd project1
+git inti project1
+git config --glogal user.email "timothywforman@gmail.com
+git config --global user.name "T4Man"
+ll
+history > moving_around.txt
+ls -l
+ls
+cd
+pwd
+man less
+history | less
+less -h1
+history -h
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+cat subl
+cd subl
+vim subl
+cd /usr/local/bin
+cd /
+subl
+subl .
+ls ls
+ls Downloads/
+cls
+cd ../../
+cd Group\ Containers/
+cd Library/
+cd l
+cd ././
+cd ..
+man cd
+cd FontCollections/
+cd Desktop/
+cd Applications/
+cd
+cd 855.gif
+cd Documents/
+cd Do
+cd Pictures/
+cd 'Library/Application Support/'
+cd ~
+man ls
+ls -p
+ls -@
+ls -R
+ls -1
+ls -c
+ls -C
+ls -tl
+ls -lr
+ls -rl
+ls -ltr
+ls -lt
+ls -l -t
+ls -l
+ls -t
+ls
+git config --global user.email "timothywforman@gmail.com"
+git config --global user.name "t4man"
+echo $PATH
+brew info fish
+brew in
+help
+brew update
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+ls -G
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install"
+brew doctor
+ls-G
+uname
+newname
+new name
+reset HEAD
+init clone
+cd /joyent
+git reset
+cd joyent
+cd node.git
+git status
+q
+git clone https://github.com/joyent/node.git
+git clone https://github.com/codefellows/git-for-everyone/tree/master/clone
+cd octocat
+git remote add origin https://github.com/octocat/repo.git
+git remote add origin https://github.com/timforman/repo.git
+git remote add origin https://github.com/user/repo.git
+ipconfig
+git commit --amend
+git statue
+git commit -m 'README'
+git commit
+git config --global t4man
+cd mylibgit
+git add README
+git reset HEAD README
+git add CONTRIBUTING
+git add CONTRIBUTING.md
+git checkout -- PROJECTS.md
+git rm --amend
+git commit
+git log
+git log -2
+rm PROJECTS.md
+git diff
+git status -s
+git add contributing.md
+vim contributing.md
+git rm contributing.md.swp
+rm '*.swp'
+rm
+rm contributing.md.swp
+git reset master
+git add contributing.md.swp
+git rm .contributing.md.swp
+git rm 'contributing.md.swp'
+git rm 'contributing.md'
+git --help
+git add 'contributing.md'
+git /?
+echo 'My Project' > README
+rm README
+echo 'My Project > README
+git clone https://github.com/libgit2/libgit2 mylibgit
+exit
+create file1.txt
+cd project1
+git inti project1
+git config --glogal user.email "timothywforman@gmail.com
+git config --global user.name "T4Man"
